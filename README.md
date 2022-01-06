@@ -86,6 +86,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristalkill&amp;theme=dark&amp;&amp;hide_border=true" alt="Kristalkill">
 <img src="https://github-readme-stats.vercel.app/api?username=kristalkill&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;&amp;hide_border=true" alt="Kristalkill">
-<img height="240px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@END&amp;theme=dark&amp;hide_border=true" alt="kristalkill">
-<img width="500px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristalkill&theme=dark&hide_border=true&layout=compact" alt="kristalkill">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@END&amp;theme=dark&amp;hide_border=true" alt="kristalkill">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristalkill&theme=dark&hide_border=true&layout=compact" alt="kristalkill">
 </p>
