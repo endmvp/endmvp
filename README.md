@@ -81,10 +81,10 @@
      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-###Stats:
+### Stats:
 
 <p align="center" justify="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@END&amp;theme=dark&amp;hide_border=true" alt="kristalkill">
-<img width="450px" justify="center" src="https://github-readme-stats.vercel.app/api?username=kristalkill&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;&amp;hide_border=true" alt="Kristalkill">
+<img width="440px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@END&amp;theme=dark&amp;hide_border=true" alt="kristalkill">
+<img width="440px" justify="center" src="https://github-readme-stats.vercel.app/api?username=kristalkill&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;&amp;hide_border=true" alt="Kristalkill">
 <img width="900px" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristalkill&amp;theme=dark&amp;&amp;hide_border=true" alt="Kristalkill">
 </p>
