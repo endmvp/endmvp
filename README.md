@@ -5,7 +5,7 @@
 ![Kristalkill](https://komarev.com/ghpvc/?username=kristalkill&label=Profile%20views&color=0e75b6&style=flat)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width=800px src="https://github-profile-trophy.vercel.app/?username=kristalkill&column=8&theme=gruvbox&no-bg=true&no-frame=true" alt="Kristalkill"/>
+<img width=800px src="https://github-profile-trophy.vercel.app/?username=kristalkill&column=7&theme=gruvbox&no-bg=true&no-frame=true" alt="Kristalkill"/>
 </a>
 
 - 🔭 I’m currently working on **nothing**
