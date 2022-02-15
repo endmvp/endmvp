@@ -85,8 +85,8 @@
 <div width="1000px" align="center"> 
 <p align="center">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@END&amp;theme=dark&amp;hide_border=true" alt="kristalkill">
-<a href="https://app.codiga.io/public/user/github/Kristalkill">
-	<img src="https://api.codiga.io/public/badge/user/github/Kristalkill?style=light" alt="codiga badge" />
+<a width="400px" align="center" href="https://app.codiga.io/public/user/github/Kristalkill">
+	<img width="400px" align="center" src="https://api.codiga.io/public/badge/user/github/Kristalkill?style=dark" alt="codiga badge" />
 </a>
 </p>
 </div>
