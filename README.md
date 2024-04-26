@@ -13,8 +13,6 @@
 - 👯 I’m looking to collaborate on **nothing**
 - 🤝 I’m looking for help with **nothing**
 - 💬 Ask me about **JavaScript, TypeScript**
-- 📫 How to reach me [**vovk.fox@gmail.com**](mailto:vovk.fox@gmail.com)
-- ⚡ Fun fact **I think I'm weird**
 
 ### Connect with me:
 
