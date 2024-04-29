@@ -1,6 +1,5 @@
-# Hi 👋, I'm END
+# Hi 👋, I'm Kristalkill 
 
-### A multi-directional developer and coder
 
 ![Kristalkill](https://komarev.com/ghpvc/?username=kristalkill&label=Profile%20views&color=0e75b6&style=flat)
 
