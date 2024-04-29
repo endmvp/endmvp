@@ -7,12 +7,6 @@
 <img width=800px src="https://github-profile-trophy.vercel.app/?username=kristalkill&column=7&theme=gruvbox&no-bg=true&no-frame=true" alt="Kristalkill"/>
 </a>
 
-- 🔭 I’m currently working on **nothing**
-- 🌱 I’m currently learning **C++**
-- 👯 I’m looking to collaborate on **nothing**
-- 🤝 I’m looking for help with **nothing**
-- 💬 Ask me about **JavaScript, TypeScript**
-
 ### Connect with me:
 
 <p align="left">
