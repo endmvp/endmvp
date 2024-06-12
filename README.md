@@ -13,12 +13,6 @@
      <a href="https://codepen.io/kristalkill" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kristalkill" height="30" width="40" />
      </a>
-     <a href="https://dev.to/endmusic" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="endmusic" height="30" width="40" />
-     </a>
-     <a href="https://twitter.com/end_mvp" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="end_mvp" height="30" width="40" />
-     </a>
      <a href="https://stackoverflow.com/users/13821866" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13821866" height="30" width="40" />
      </a>
@@ -30,9 +24,6 @@
      </a>
      <a href="https://www.hackerrank.com/@vovk_fox" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vovk_fox" height="30" width="40" />
-     </a>
-     <a href="https://www.hackerearth.com/@end" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@end" height="30" width="40" />
      </a>
      <a href="https://discord.gg/tRuvuTJ7qM" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tRuvuTJ7qM" height="30" width="40" />
