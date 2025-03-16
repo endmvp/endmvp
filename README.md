@@ -7,18 +7,18 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@ENDMVP">
-    <img width="32px" alt="Youtube" title="Youtube" src="./assets/youtube_social_icon_red.png" />
+    <img  align="middle" width="32px" alt="Youtube" title="Youtube" src="./assets/youtube_social_icon_red.png" />
   </a> &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.linkedin.com/in/vasylvovk/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/LI-In-Bug.png" />
+    <img  align="middle" width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/LI-In-Bug.png" />
   </a> &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://x.com/vovk_vasyl">
-    <img width="32px" alt="X" title="X" src="./assets/logo-black.png" />
+    <img  align="middle" width="32px" alt="X" title="X" src="./assets/logo-black.png" />
   </a> &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://dev.to/endmvp">
-    <img width="32px" alt="Dev.to" title="Dev.to" src="./assets/dev-badge.svg">
+    <img  align="middle" width="32px" alt="Dev.to" title="Dev.to" src="./assets/dev-badge.svg">
   </a> &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://ko-fi.com/endmvp">
-    <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/kofi_symbol.png" />
+    <img  align="middle" width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/kofi_symbol.png" />
   </a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a>
-     <img width="32px" alt="Linktree" title="Linktree" src="./assets/linktree-logo-icon.png" />
+     <img  align="middle" width="32px" alt="Linktree" title="Linktree" src="./assets/linktree-logo-icon.png" />
   </a>
 </p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
