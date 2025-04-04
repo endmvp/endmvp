@@ -22,5 +22,5 @@
   </a>
 </p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800px src="https://github-profile-trophy.vercel.app/?username=kristalkill&column=9&theme=gruvbox&no-bg=true&no-frame=true" alt="Kristalkill" />
+  <img width=800px src="https://github-profile-trophy.vercel.app/?username=endmvp&column=9&theme=onedark&no-bg=true&no-frame=true" alt="endmvp" />
 </p>
